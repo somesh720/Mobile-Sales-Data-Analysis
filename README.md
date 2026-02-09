@@ -43,5 +43,3 @@ Analyze mobile sales data to extract key business insights and trends using Powe
 
 ---
 
-> 📌 *Data Source: Mobile Sales Dashboard | Tools Used: Power BI, Excel*  
-> 📂 *Explore the dashboard and dataset in the repository files.*
