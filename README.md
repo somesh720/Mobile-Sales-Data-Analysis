@@ -11,6 +11,11 @@ Analyze mobile sales data to extract key business insights and trends using Powe
 - **📂 Dataset**: <a href="https://github.com/somesh720/Mobile-Sales-Data-Analysis/blob/main/Mobile%20Sales%20Data.xlsx" target="_blank">View/Download Dataset</a>
 - **🖼️ Dashboard Preview**: <a href="https://github.com/somesh720/Mobile-Sales-Data-Analysis/blob/main/mobilesales.png" target="_blank">View Dashboard Screenshot</a>
 
+## 🛠️ Tools Used
+- **Power BI** - Data visualization & dashboard creation
+- **Excel** - Data processing & analysis
+
+
 ## 📈 Sales & Revenue Insights
 
 | Question | Answer |
