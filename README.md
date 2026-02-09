@@ -1,28 +1,31 @@
 # Mobile-Sales-Data-Analysis
 
-1. What was the total sales revenue?
-Answer: $769 million.
+## 📈 Sales & Revenue Insights
 
-2. Which mobile model generated the highest sales?
-Answer: iPhone SE with $60 million in sales.
+| Question | Answer |
+|----------|--------|
+| **What was the total sales revenue?** | **$769 million.** |
+| **Which mobile model generated the highest sales?** | **iPhone SE** with **$60 million** in sales. |
+| **Which month had the highest sales quantity?** | **March** with **1,696 units** sold. |
+| **What is the average number of units sold per month?** | Approximately **1,581 units** per month. |
+| **Which day of the week had the highest sales?** | **Saturday**, with **$115 million** in sales. |
 
-3. What is the average number of units sold per month?
-Answer: Approximately 1,581 units per month.
+## 💳 Payment & Customer Experience
 
-4. Which month had the highest sales quantity?
-Answer: March with 1,696 units sold.
+| Question | Answer |
+|----------|--------|
+| **What was the most used payment method?** | **UPI**, accounting for **22.83%** of all transactions. |
+| **Which payment methods are most popular besides UPI?** | **Debit Card (26.25%), Cash (25.89%), and Credit Card (25.09%).** |
+| **How did customers rate their experience?** | **100% satisfaction** rating. |
 
-5. How did customers rate their experience?
-Answer: 100% satisfaction rating.
+## 📊 Consistency & Trends
 
-6. What was the most used payment method?
-Answer: UPI, accounting for 22.83% of all transactions.
+| Question | Answer |
+|----------|--------|
+| **How consistent were sales in the second half of the year?** | Very consistent — from **June to December**, sales averaged around **1,580 units** per month. |
+| **What were the top three selling models by revenue?** | 1. **iPhone SE – $60M** <br> 2. **OnePlus Nord – $58M** <br> 3. **Galaxy Note 20 – $56M** |
 
-7. Which day of the week had the highest sales?
-Answer: Saturday, with $115 million in sales.
+---
 
-8. How consistent were sales in the second half of the year?
-Answer: Very consistent — from June to December, sales averaged around 1,580 units per month.
-
-9. Which payment methods are most popular besides UPI?
-Answer: Debit Card (26.25%), Cash (25.89%), and Credit Card (25.09%).
+> 📌 *Data Source: Mobile Sales Dashboard | Tools Used: Power BI, Excel*  
+> 📂 *Explore the dashboard and dataset in the repository files.*
